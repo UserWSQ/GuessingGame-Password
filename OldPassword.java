@@ -26,20 +26,20 @@ public class OldPassword {
         System.out.println("Password incorrect.Access denied.");
     }
 
-            if (a == 821118) {
-        System.out.println("Password correct.Automatically switch to Yakun Wang's device.");
+            if (a == etr yr password here) {
+        System.out.println("Password correct.");
     } else {
         System.out.println("Password incorrect.Access denied.");
     }
 
-            if (a == 810928) {
-        System.out.println("Password correct.Automatically switch to Guang Cheng's device.");
+            if (a == etr yr password here) {
+        System.out.println("Password correct.");
     } else {
         System.out.println("Password incorrect.Access denied.");
     }
 
-            if (a == 101101) {
-        System.out.println("Password correct.Automatically switch to Shanqi Wang's device.");
+            if (a == etr yr password here) {
+        System.out.println("Password correct.");
     } else {
         System.out.println("Password incorrect.Access denied.");
     }
